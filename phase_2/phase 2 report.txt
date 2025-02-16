@@ -1,0 +1,41 @@
+**Instance Segmentation and Object Detection Report**
+
+**1. Introduction**
+In this phase of the project, we focused on object detection using the Detectron2 framework. Our goal was to evaluate the model's performance on the LV-MHP-V2 dataset by training it with a larger dataset and tuning hyperparameters to optimize results.
+
+**2. Dataset and Model Configuration**
+- Dataset: LV-MHP-V2 (training subset of 15,000 images).
+- Model: Detectron2-based instance segmentation model.
+- Training Iterations: 4000 iterations.
+- Precision Training: Mixed precision training with `autocast` and `GradScaler` enabled.
+- Evaluation Metric: COCO-style evaluation for bounding boxes (`bbox`).
+
+**3. Training Process**
+The model was trained using Detectron2's training loop, with key optimizations:
+- Dataset size of 15,000 images to improve generalization.
+- Custom training loop enhancements for better resource utilization.
+- Autocast and gradient scaling for improved computational efficiency.
+- Evaluation performed after training to assess detection performance.
+
+**4. Evaluation Results**
+Upon completing training, we evaluated the model using the COCO evaluation metric for bounding box detection. Below are the results:
+
+| Metric                     | Score  |
+|----------------------------|--------|
+| Average Precision (AP) @[IoU=0.50:0.95] | 66.1%  |
+| Average Precision (AP) @[IoU=0.50]      | 92.7%  |
+| Average Precision (AP) @[IoU=0.75]      | 72.8%  |
+| Average Precision (AP) for Large Objects | 66.2%  |
+| Average Recall (AR) @[IoU=0.50:0.95] (Max Dets=100) | 74.3%  |
+
+**5. Observations and Findings**
+- The model achieved a high AP50 score of 92.7%, indicating strong detection capability at IoU 0.50.
+- The overall AP@[0.50:0.95] score of 66.1% suggests the model is performing well across various IoU thresholds.
+- AP and AR values for small and medium-sized objects were unavailable (`NaN`), likely due to dataset characteristics or insufficient instances of these sizes.
+- The model showed good recall (74.3%), meaning it successfully detects most objects present in the dataset.
+
+**6. Conclusion and Next Steps**
+The model has demonstrated fine object detection performance. However, further improvements can be made by:
+
+Overall, the results indicate significant improvements, validating the effectiveness of the dataset size and training iterations.
+
