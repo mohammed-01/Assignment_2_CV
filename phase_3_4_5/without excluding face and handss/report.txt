@@ -1,0 +1,47 @@
+# Instance Segmentation and Gender Classification
+
+## Phase 3: Data Preparation for Instance Segmentation and Gender Classification
+
+### 1. Data Annotation
+- Annotated 200 images (150 for training, 50 for testing) with gender information (male/female).
+- Utilized an annotation tool to label the dataset with gender.
+
+### 2. Script to Include Annotations (Without Face and Hands Exclusion)
+- Implemented a script that processes the annotations and prepares the dataset for training.
+
+### 3. Registering the Dataset
+- Registered the LV-MHP-V2 dataset for training and testing in Detectron2.
+
+## Phase 4: Instance Segmentation and Gender Classification Model Training
+
+### 1. Model Configuration
+- Configured the model to use Detectron2's Mask R-CNN architecture.
+- Set hyperparameters including learning rate, batch size, and evaluation period.
+
+### 2. Training the Model
+- Trained the instance segmentation model with gender classification.
+
+## Final Evaluation Results
+
+| Metric           | Result    |
+|------------------|-----------|
+| AP @ IoU=0.50:0.95 | 55.770%  |
+| AP50             | 81.280%   |
+| AP75             | 61.205%   |
+| APm (medium objects) | 23.889% |
+| APl (large objects) | 57.286%  |
+| AR @ IoU=0.50:0.95 |           |
+| Max Dets=1       | 47.7%     |
+| Max Dets=10      | 70.3%     |
+| Max Dets=100     | 70.3%     |
+| Male AP          | 61.441%   |
+| Female AP        | 50.100%   |
+
+### Per-category Bbox AP
+| Category | AP      |
+|----------|---------|
+| Male     | 61.441% |
+| Female   | 50.100% |
+
+## Conclusion
+Your model demonstrates strong performance in both instance segmentation and gender classification. The evaluation metrics indicate that the model is effective at detecting and classifying gender in images, with particularly high precision for larger objects.

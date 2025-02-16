@@ -1,0 +1,27 @@
+# Instance Segmentation and Gender Classification
+
+## Phase 3: Data Preparation for Instance Segmentation and Gender Classification
+
+### 1. Data Annotation
+- Annotated 200 images (150 for training, 50 for testing) with gender information (male/female).
+- Utilized an annotation tool to label the dataset with gender.
+
+### 2. Script to Include Annotations (Including Face and Hands Exclusion)
+- Implemented a script to process the annotations and prepare the dataset for training.
+- The script to exclude face and hands from the annotations worked successfully.
+
+### 3. Registering the Dataset
+- Registered the LV-MHP-V2 dataset for training and testing in Detectron2.
+
+## Phase 4: Instance Segmentation and Gender Classification Model Training
+
+### 1. Model Configuration
+- Configured the model to use Detectron2's Mask R-CNN architecture.
+- Set hyperparameters including learning rate, batch size, and evaluation period.
+
+### 2. Training the Model
+- Attempted to train the instance segmentation model with gender classification.
+- The training and evaluation of the model did not work, and no results were obtained from this phase.
+
+## Conclusion
+The script to exclude face and hands from the annotations worked successfully. However, the training and evaluation of the model did not work, and no results were obtained from this phase. Further investigation and adjustments are required to successfully train and evaluate the instance segmentation and gender classification model.
