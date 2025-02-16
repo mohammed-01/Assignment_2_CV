@@ -1,0 +1,4658 @@
+[
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10085.jpg",
+        "width": 874,
+        "height": 1024,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 84.05882352941177,
+                "y1": 20.235294117647047,
+                "x2": 453.4705882352941,
+                "y2": 980.2352941176471
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 452.29411764705884,
+                "y1": 121.41176470588235,
+                "x2": 749.9411764705883,
+                "y2": 982.5882352941177
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10239.jpg",
+        "width": 500,
+        "height": 550,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.6329113924050489,
+                "y1": 23.10126582278481,
+                "x2": 255.57877997582852,
+                "y2": 549.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 243.03797468354426,
+                "y1": 3.552713678800501e-15,
+                "x2": 499.0,
+                "y2": 547.1518987341773
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10241.jpg",
+        "width": 400,
+        "height": 332,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.0,
+                "y1": 4.403041825095051,
+                "x2": 235.74144486692015,
+                "y2": 330.638783269962
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 200.76045627376428,
+                "y1": 61.43726235741445,
+                "x2": 399.0,
+                "y2": 331.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10339.jpg",
+        "width": 629,
+        "height": 344,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 301.2219917012448,
+                "y1": 2.7053941908713863,
+                "x2": 577.155601659751,
+                "y2": 342.53941908713693
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 0.0,
+                "y1": 29.26141078838176,
+                "x2": 304.9564315352697,
+                "y2": 343.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10348.jpg",
+        "width": 460,
+        "height": 306,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 279.1228070175439,
+                "y1": 31.947368421052637,
+                "x2": 459.0,
+                "y2": 305.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 2.220446049250313e-16,
+                "y1": 42.12280701754386,
+                "x2": 173.1578947368421,
+                "y2": 304.22807017543863
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10552.jpg",
+        "width": 282,
+        "height": 400,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 39.62385321100916,
+                "y1": 4.128440366972503,
+                "x2": 159.80733944954125,
+                "y2": 397.70642201834863
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 142.83934760448517,
+                "y1": 8.715596330275256,
+                "x2": 278.15596330275224,
+                "y2": 399.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10695.jpg",
+        "width": 2048,
+        "height": 1536,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 452.5714285714286,
+                "y1": 337.64285714285717,
+                "x2": 1175.7857142857142,
+                "y2": 1535.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 975.7857142857142,
+                "y1": 189.4285714285715,
+                "x2": 1993.642857142857,
+                "y2": 1534.0714285714284
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 1731.142857142857,
+                "y1": 337.64285714285717,
+                "x2": 1998.9999999999998,
+                "y2": 918.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1079.jpg",
+        "width": 360,
+        "height": 243,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 270.3899721448468,
+                "y1": 46.56963788300836,
+                "x2": 341.6991643454039,
+                "y2": 216.2075208913649
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 246.43454038997214,
+                "y1": 61.611420612813376,
+                "x2": 284.59610027855155,
+                "y2": 212.02924791086352
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 200.19498607242338,
+                "y1": 69.4108635097493,
+                "x2": 256.18384401114207,
+                "y2": 206.458217270195
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 161.75487465181058,
+                "y1": 57.15459610027855,
+                "x2": 210.50139275766014,
+                "y2": 209.5222841225627
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 121.08635097493035,
+                "y1": 53.533426183844014,
+                "x2": 165.3760445682451,
+                "y2": 213.9791086350975
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 70.11142061281335,
+                "y1": 34.31337047353761,
+                "x2": 126.65738161559887,
+                "y2": 221.77855153203345
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 16.90807799442895,
+                "y1": 24.285515320334262,
+                "x2": 80.97493036211696,
+                "y2": 229.02089136490252
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10897.jpg",
+        "width": 460,
+        "height": 276,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 186.0126582278481,
+                "y1": 0.6582278481012788,
+                "x2": 385.69620253164555,
+                "y2": 273.126582278481
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 52.46835443037976,
+                "y1": 42.74683544303798,
+                "x2": 192.0253164556962,
+                "y2": 269.6455696202532
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\10949.jpg",
+        "width": 419,
+        "height": 594,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 206.77891156462584,
+                "y1": 35.09523809523808,
+                "x2": 418.0,
+                "y2": 593.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 4.0578231292516875,
+                "y1": 24.210884353741477,
+                "x2": 256.43877551020404,
+                "y2": 590.1972789115646
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\11077.jpg",
+        "width": 500,
+        "height": 281,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 46.38157894736842,
+                "y1": 46.0921052631579,
+                "x2": 266.11842105263156,
+                "y2": 279.64473684210526
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 264.14473684210526,
+                "y1": 74.05263157894737,
+                "x2": 444.7368421052632,
+                "y2": 280.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1108.jpg",
+        "width": 360,
+        "height": 240,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 91.12637362637363,
+                "y1": 43.901098901098905,
+                "x2": 187.0054945054945,
+                "y2": 238.95604395604394
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 159.25824175824175,
+                "y1": 20.274725274725277,
+                "x2": 266.6758241758242,
+                "y2": 239.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\11157.jpg",
+        "width": 1417,
+        "height": 1063,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 365.81707317073176,
+                "y1": 208.32926829268297,
+                "x2": 843.8658536585365,
+                "y2": 1061.9878048780488
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 845.0853658536585,
+                "y1": 124.18292682926833,
+                "x2": 1416.0,
+                "y2": 1061.9829153244364
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 4.841463414634177,
+                "y1": 111.98780487804882,
+                "x2": 392.6463414634146,
+                "y2": 1060.7682926829268
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1118.jpg",
+        "width": 1040,
+        "height": 1301,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 365.5223880597016,
+                "y1": 99.75373134328363,
+                "x2": 923.7313432835822,
+                "y2": 1251.9925373134329
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 47.611940298507534,
+                "y1": 547.5149253731344,
+                "x2": 308.8059701492539,
+                "y2": 871.3955223880597
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\11323.jpg",
+        "width": 900,
+        "height": 464,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 435.207100591716,
+                "y1": 7.147928994082832,
+                "x2": 897.9289940828402,
+                "y2": 462.17751479289944
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.8875739644970415,
+                "y1": 0.6390532544378615,
+                "x2": 383.13609467455626,
+                "y2": 463.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\11957.jpg",
+        "width": 1024,
+        "height": 686,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 97.8267716535433,
+                "y1": 86.30708661417323,
+                "x2": 407.2755905511811,
+                "y2": 681.5826771653543
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 340.34645669291336,
+                "y1": 346.93700787401576,
+                "x2": 526.1732283464568,
+                "y2": 685.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 492.31496062992125,
+                "y1": 368.98425196850394,
+                "x2": 692.3149606299213,
+                "y2": 683.1574803149606
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 693.8897637795276,
+                "y1": 89.45669291338584,
+                "x2": 967.9055118110236,
+                "y2": 685.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 494.6771653543307,
+                "y1": 148.51181102362207,
+                "x2": 708.8503937007874,
+                "y2": 685.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\12014.jpg",
+        "width": 1024,
+        "height": 736,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 541.2372881355932,
+                "y1": 70.54237288135589,
+                "x2": 962.4237288135594,
+                "y2": 734.949152542373
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 15.813559322033882,
+                "y1": 67.99999999999996,
+                "x2": 339.5423728813559,
+                "y2": 734.949152542373
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 274.2881355932203,
+                "y1": -1.7763568394002505e-15,
+                "x2": 618.3559322033898,
+                "y2": 734.1016949152543
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 892.0847457627119,
+                "y1": 103.4857473035439,
+                "x2": 1023.0,
+                "y2": 735.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1256.jpg",
+        "width": 585,
+        "height": 389,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 244.0625,
+                "y1": 87.35714285714289,
+                "x2": 325.75892857142856,
+                "y2": 318.1607142857143
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 161.47321428571428,
+                "y1": 77.5357142857143,
+                "x2": 222.1875,
+                "y2": 317.7142857142857
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 3.8839285714285836,
+                "y1": 68.16071428571432,
+                "x2": 101.65178571428574,
+                "y2": 314.14285714285717
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 450.31249999999994,
+                "y1": 85.5714285714286,
+                "x2": 584.0,
+                "y2": 337.80357142857144
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 323.9732142857143,
+                "y1": 74.85714285714289,
+                "x2": 474.8660714285714,
+                "y2": 329.76785714285717
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 301.20535714285717,
+                "y1": 61.01785714285717,
+                "x2": 401.6517857142857,
+                "y2": 238.69642857142856
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1282.jpg",
+        "width": 585,
+        "height": 882,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 266.74242424242425,
+                "y1": 130.8989898989899,
+                "x2": 455.63131313131316,
+                "y2": 776.3535353535353
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 84.9242424242425,
+                "y1": 84.4343434343434,
+                "x2": 316.2373737373738,
+                "y2": 781.4040404040404
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1307.jpg",
+        "width": 430,
+        "height": 323,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 183.7037037037037,
+                "y1": 49.27777777777778,
+                "x2": 429.0,
+                "y2": 322.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 251.48148148148147,
+                "y1": 61.5,
+                "x2": 318.14814814814815,
+                "y2": 188.9074074074074
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 132.96296296296296,
+                "y1": 63.72222222222223,
+                "x2": 256.66666666666663,
+                "y2": 248.16666666666666
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 14.074074074074076,
+                "y1": 37.42592592592593,
+                "x2": 113.33333333333331,
+                "y2": 322.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 90.37037037037035,
+                "y1": 67.42592592592592,
+                "x2": 190.0,
+                "y2": 322.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1322.jpg",
+        "width": 585,
+        "height": 439,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 405.31407035175886,
+                "y1": 85.32914572864323,
+                "x2": 546.5201005025126,
+                "y2": 438.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 276.6708542713568,
+                "y1": 79.80150753768845,
+                "x2": 447.52512562814076,
+                "y2": 438.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 143.0025125628141,
+                "y1": 46.13316582914573,
+                "x2": 298.7814070351759,
+                "y2": 438.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 4.309045226130692,
+                "y1": 18.494974874371863,
+                "x2": 173.6557788944724,
+                "y2": 438.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\13599.jpg",
+        "width": 1024,
+        "height": 768,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 627.4867256637168,
+                "y1": 368.070796460177,
+                "x2": 679.6991150442477,
+                "y2": 708.7787610619469
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 545.1858407079646,
+                "y1": 383.11504424778764,
+                "x2": 632.7964601769911,
+                "y2": 694.6194690265487
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 362.88495575221236,
+                "y1": 412.3185840707965,
+                "x2": 449.6106194690266,
+                "y2": 707.8938053097345
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 480.5840707964602,
+                "y1": 501.6991150442478,
+                "x2": 551.3805309734513,
+                "y2": 617.6283185840708
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 451.3805309734513,
+                "y1": 361.8761061946903,
+                "x2": 548.7256637168141,
+                "y2": 607.8938053097345
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 400.9380530973451,
+                "y1": 374.2654867256637,
+                "x2": 472.6194690265487,
+                "y2": 693.7345132743362
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 267.30973451327435,
+                "y1": 345.9469026548673,
+                "x2": 370.84955752212386,
+                "y2": 736.2123893805309
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\13742.jpg",
+        "width": 1024,
+        "height": 768,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 285.0088495575221,
+                "y1": 321.1681415929204,
+                "x2": 631.0265486725664,
+                "y2": 767.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.05309734513278386,
+                "y1": 198.15929203539827,
+                "x2": 391.2035398230089,
+                "y2": 767.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1410.jpg",
+        "width": 514,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 216.727626459144,
+                "y1": 46.93190661478597,
+                "x2": 487.15564202334633,
+                "y2": 338.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 39.29571984435799,
+                "y1": 48.09922178988325,
+                "x2": 243.18677042801556,
+                "y2": 338.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\14197.jpg",
+        "width": 1024,
+        "height": 768,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 710.6725663716813,
+                "y1": 141.52212389380534,
+                "x2": 968.1946902654867,
+                "y2": 765.4159292035398
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 581.4690265486726,
+                "y1": 114.97345132743368,
+                "x2": 751.3805309734513,
+                "y2": 765.4159292035398
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 261.11504424778764,
+                "y1": 55.681415929203595,
+                "x2": 446.95575221238937,
+                "y2": 765.4159292035398
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 426.60176991150445,
+                "y1": 88.424778761062,
+                "x2": 595.6283185840708,
+                "y2": 766.3008849557522
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 63.76991150442484,
+                "y1": 55.681415929203595,
+                "x2": 304.4778761061947,
+                "y2": 767.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1424.jpg",
+        "width": 735,
+        "height": 493,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 255.35310734463275,
+                "y1": 84.91807909604519,
+                "x2": 380.2118644067797,
+                "y2": 453.27966101694915
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 362.6977401129944,
+                "y1": 82.65819209039547,
+                "x2": 470.60734463276833,
+                "y2": 490.5677966101695
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1453.jpg",
+        "width": 4928,
+        "height": 3280,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.5384615384615472,
+                "y1": 701.5384615384617,
+                "x2": 569.7692307692306,
+                "y2": 3274.6153846153848
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 239.0,
+                "y1": 663.0769230769232,
+                "x2": 1035.1538461538462,
+                "y2": 3279.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 727.4615384615385,
+                "y1": 632.3076923076925,
+                "x2": 1700.5384615384614,
+                "y2": 3270.769230769231
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 1346.6923076923076,
+                "y1": 166.92307692307705,
+                "x2": 2562.076923076923,
+                "y2": 3279.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 3865.9230769230767,
+                "y1": 297.6923076923078,
+                "x2": 4927.0,
+                "y2": 3263.0769230769233
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 2115.923076923077,
+                "y1": 616.923076923077,
+                "x2": 3065.9230769230767,
+                "y2": 3279.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 3177.4615384615386,
+                "y1": 763.0769230769232,
+                "x2": 3488.9999999999995,
+                "y2": 2001.5384615384614
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1510.jpg",
+        "width": 501,
+        "height": 334,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 268.31609195402297,
+                "y1": 1.482758620689657,
+                "x2": 436.132183908046,
+                "y2": 333.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 66.01724137931032,
+                "y1": 29.8352490421456,
+                "x2": 285.5574712643678,
+                "y2": 333.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\15280.jpg",
+        "width": 1024,
+        "height": 680,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 292.859375,
+                "y1": 87.65624999999999,
+                "x2": 601.453125,
+                "y2": 675.15625
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 594.421875,
+                "y1": 104.06249999999999,
+                "x2": 884.265625,
+                "y2": 676.71875
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\15494.jpg",
+        "width": 1024,
+        "height": 680,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 295.984375,
+                "y1": 309.53125,
+                "x2": 435.828125,
+                "y2": 472.03125
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 432.703125,
+                "y1": 301.71875,
+                "x2": 592.859375,
+                "y2": 463.4375
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 86.609375,
+                "y1": 325.9375,
+                "x2": 278.015625,
+                "y2": 489.21875
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 703.796875,
+                "y1": 170.46875,
+                "x2": 885.046875,
+                "y2": 335.3125
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\15664.jpg",
+        "width": 480,
+        "height": 720,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 210.6611570247934,
+                "y1": 69.9173553719008,
+                "x2": 479.0,
+                "y2": 717.0247933884298
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 13.14049586776855,
+                "y1": 50.90909090909088,
+                "x2": 259.42148760330576,
+                "y2": 718.6776859504132
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\15675.jpg",
+        "width": 568,
+        "height": 800,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 3.7247706422017473,
+                "y1": 43.11926605504592,
+                "x2": 299.137614678899,
+                "y2": 799.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 275.2844036697247,
+                "y1": 28.440366972477115,
+                "x2": 541.3394495412844,
+                "y2": 796.3302752293578
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\15681.jpg",
+        "width": 685,
+        "height": 1024,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 306.61764705882354,
+                "y1": 134.35294117647058,
+                "x2": 680.7352941176471,
+                "y2": 1020.2352941176471
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 36.029411764705856,
+                "y1": 30.823529411764696,
+                "x2": 454.8529411764705,
+                "y2": 1017.8823529411765
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\15753.jpg",
+        "width": 1024,
+        "height": 685,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 452.5511811023622,
+                "y1": 92.8937007874016,
+                "x2": 750.9763779527559,
+                "y2": 683.4448818897638
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 672.2362204724409,
+                "y1": 103.91732283464569,
+                "x2": 1013.9685039370078,
+                "y2": 684.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 132.07874015748033,
+                "y1": 39.35039370078742,
+                "x2": 521.0551181102362,
+                "y2": 682.6574803149606
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1604.jpg",
+        "width": 493,
+        "height": 348,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 237.13745019920316,
+                "y1": 44.51792828685261,
+                "x2": 381.7589641434263,
+                "y2": 347.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 44.707171314741046,
+                "y1": 17.426294820717157,
+                "x2": 270.6035856573705,
+                "y2": 346.1115537848605
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1625.jpg",
+        "width": 477,
+        "height": 358,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 132.55737704918033,
+                "y1": 105.63934426229508,
+                "x2": 254.68852459016392,
+                "y2": 356.4590163934426
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 158.37704918032784,
+                "y1": 77.36065573770492,
+                "x2": 230.09836065573768,
+                "y2": 147.44262295081967
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\16402.jpg",
+        "width": 1024,
+        "height": 683,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 206.88188976377953,
+                "y1": 65.90944881889763,
+                "x2": 387.98425196850394,
+                "y2": 630.4763779527559
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 33.65354330708661,
+                "y1": 24.177165354330693,
+                "x2": 269.8740157480315,
+                "y2": 682.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 403.7322834645669,
+                "y1": 295.0433070866141,
+                "x2": 630.503937007874,
+                "y2": 624.1771653543307
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 636.0157480314961,
+                "y1": 217.09055118110234,
+                "x2": 789.5590551181102,
+                "y2": 550.1614173228346
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 703.7322834645669,
+                "y1": 52.52362204724408,
+                "x2": 824.992125984252,
+                "y2": 274.57086614173227
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 777.7480314960629,
+                "y1": 70.63385826771653,
+                "x2": 961.9999999999999,
+                "y2": 682.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1667.jpg",
+        "width": 338,
+        "height": 506,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 116.96511627906983,
+                "y1": 119.86046511627906,
+                "x2": 235.56976744186056,
+                "y2": 218.69767441860463
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 136.73255813953494,
+                "y1": 113.46511627906976,
+                "x2": 203.59302325581405,
+                "y2": 194.27906976744185
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\16735.jpg",
+        "width": 1024,
+        "height": 686,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 499.7952755905511,
+                "y1": 161.8976377952756,
+                "x2": 722.6299212598425,
+                "y2": 681.5826771653543
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 697.4330708661416,
+                "y1": 204.4173228346457,
+                "x2": 928.9291338582676,
+                "y2": 683.1574803149606
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 150.18897637795274,
+                "y1": 280.79527559055117,
+                "x2": 458.06299212598424,
+                "y2": 682.3700787401575
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.5826771653543119,
+                "y1": 302.8425196850394,
+                "x2": 164.36220472440945,
+                "y2": 683.1574803149606
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\16819.jpg",
+        "width": 1024,
+        "height": 768,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 464.6548672566372,
+                "y1": 176.03539823008853,
+                "x2": 722.1769911504424,
+                "y2": 517.6283185840708
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 584.1238938053098,
+                "y1": 405.23893805309734,
+                "x2": 718.637168141593,
+                "y2": 767.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 450.49557522123894,
+                "y1": 343.2920353982301,
+                "x2": 679.6991150442477,
+                "y2": 766.3008849557522
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\17063.jpg",
+        "width": 1024,
+        "height": 683,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 16.330708661417304,
+                "y1": 25.751968503936993,
+                "x2": 525.779527559055,
+                "y2": 679.2952755905512
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 217.11811023622047,
+                "y1": 84.80708661417322,
+                "x2": 620.267716535433,
+                "y2": 629.6889763779527
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 454.91338582677156,
+                "y1": 100.55511811023621,
+                "x2": 737.5905511811023,
+                "y2": 608.4291338582677
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 669.0866141732283,
+                "y1": 116.3031496062992,
+                "x2": 972.236220472441,
+                "y2": 626.5393700787401
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\17180.jpg",
+        "width": 1024,
+        "height": 768,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 211.55752212389382,
+                "y1": 13.203539823008912,
+                "x2": 471.73451327433634,
+                "y2": 241.52212389380534
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.0,
+                "y1": 301.69911504424783,
+                "x2": 341.6460176991151,
+                "y2": 765.4159292035398
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 214.21238938053102,
+                "y1": 222.05309734513278,
+                "x2": 487.66371681415933,
+                "y2": 766.3008849557522
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 410.67256637168146,
+                "y1": 299.04424778761063,
+                "x2": 800.9380530973451,
+                "y2": 767.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\17222.jpg",
+        "width": 1024,
+        "height": 680,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 65.515625,
+                "y1": 111.09374999999999,
+                "x2": 526.453125,
+                "y2": 678.28125
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 496.765625,
+                "y1": 56.40624999999999,
+                "x2": 902.234375,
+                "y2": 656.40625
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\17259.jpg",
+        "width": 681,
+        "height": 1024,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 454.02941176470586,
+                "y1": 579.0588235294118,
+                "x2": 532.8529411764705,
+                "y2": 920.2352941176471
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 383.4411764705882,
+                "y1": 561.4117647058823,
+                "x2": 482.2647058823529,
+                "y2": 840.2352941176471
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 157.5588235294117,
+                "y1": 572.0,
+                "x2": 281.0882352941177,
+                "y2": 975.5294117647059
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 243.44117647058818,
+                "y1": 496.70588235294116,
+                "x2": 334.02941176470586,
+                "y2": 936.7058823529412
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 31.676470588235247,
+                "y1": 502.5882352941177,
+                "x2": 176.38235294117646,
+                "y2": 1023.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\17564.jpg",
+        "width": 1024,
+        "height": 768,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.0,
+                "y1": 53.02654867256643,
+                "x2": 441.6460176991151,
+                "y2": 765.4159292035398
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 574.3893805309734,
+                "y1": 76.92035398230094,
+                "x2": 1023.0,
+                "y2": 766.3008849557522
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\17606.jpg",
+        "width": 1024,
+        "height": 741,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 678.2393162393162,
+                "y1": 39.7307692307692,
+                "x2": 992.7692307692307,
+                "y2": 738.0213675213676
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 238.06837606837607,
+                "y1": 32.893162393162356,
+                "x2": 543.1965811965812,
+                "y2": 737.1666666666666
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 27.811965811965763,
+                "y1": 103.8333333333333,
+                "x2": 281.65811965811963,
+                "y2": 740.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 498.7521367521367,
+                "y1": 179.04700854700855,
+                "x2": 707.2991452991453,
+                "y2": 740.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\17716.jpg",
+        "width": 1024,
+        "height": 768,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 2.707964601769959,
+                "y1": 299.04424778761063,
+                "x2": 227.48672566371687,
+                "y2": 653.9115044247787
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 263.7699115044248,
+                "y1": 254.79646017699116,
+                "x2": 629.2566371681415,
+                "y2": 653.9115044247787
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 708.0176991150443,
+                "y1": 206.12389380530976,
+                "x2": 1023.0,
+                "y2": 647.7168141592921
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\18245.jpg",
+        "width": 490,
+        "height": 344,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 1.496062992125971,
+                "y1": 18.850393700787397,
+                "x2": 198.74015748031496,
+                "y2": 332.62992125984255
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 138.503937007874,
+                "y1": 1.9212598425196834,
+                "x2": 236.14173228346453,
+                "y2": 217.6692913385827
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 242.04724409448818,
+                "y1": 26.33070866141732,
+                "x2": 464.4881889763779,
+                "y2": 326.7244094488189
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\18401.jpg",
+        "width": 550,
+        "height": 366,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 252.52100840336132,
+                "y1": 20.39495798319326,
+                "x2": 397.8991596638656,
+                "y2": 365.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 395.3781512605042,
+                "y1": 11.991596638655448,
+                "x2": 544.5378151260504,
+                "y2": 363.672268907563
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 146.21848739495798,
+                "y1": 35.52100840336133,
+                "x2": 259.6638655462185,
+                "y2": 364.9327731092437
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 0.0,
+                "y1": 25.43697478991595,
+                "x2": 157.14285714285714,
+                "y2": 365.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\18483.jpg",
+        "width": 1310,
+        "height": 873,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 70.5,
+                "y1": 39.5,
+                "x2": 770.5,
+                "y2": 872.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 235.5,
+                "y1": 86.5,
+                "x2": 1309.0,
+                "y2": 872.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1951.jpg",
+        "width": 508,
+        "height": 338,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 306.51937984496124,
+                "y1": 109.31007751937986,
+                "x2": 404.58139534883725,
+                "y2": 337.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 282.8759689922481,
+                "y1": 132.1782945736434,
+                "x2": 362.33333333333337,
+                "y2": 336.8294573643411
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\1991.jpg",
+        "width": 339,
+        "height": 508,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 36.06976744186045,
+                "y1": 65.04651162790698,
+                "x2": 156.4186046511628,
+                "y2": 457.48837209302326
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 158.16279069767444,
+                "y1": 62.13953488372093,
+                "x2": 311.0697674418605,
+                "y2": 450.51162790697674
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2037.jpg",
+        "width": 501,
+        "height": 334,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 180.1934865900383,
+                "y1": 64.70114942528735,
+                "x2": 295.5191570881226,
+                "y2": 332.5172413793104
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 85.9406130268199,
+                "y1": 24.471264367816097,
+                "x2": 202.4157088122605,
+                "y2": 332.5172413793104
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2135.jpg",
+        "width": 501,
+        "height": 334,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 275.9789272030651,
+                "y1": 53.97318007662835,
+                "x2": 371.38122605363986,
+                "y2": 332.9003831417625
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 354.5229885057471,
+                "y1": 63.934865900383144,
+                "x2": 424.2547892720306,
+                "y2": 333.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\220.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 234.45054945054943,
+                "y1": 68.02197802197803,
+                "x2": 386.0989010989011,
+                "y2": 419.1208791208791
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 357.5274725274725,
+                "y1": 65.82417582417582,
+                "x2": 442.69230769230774,
+                "y2": 420.7692307692308
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2235.jpg",
+        "width": 506,
+        "height": 337,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 386.01158301158307,
+                "y1": 18.69305019305018,
+                "x2": 482.53667953667957,
+                "y2": 240.7007722007722
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 367.8648648648649,
+                "y1": 17.920849420849407,
+                "x2": 464.3899613899614,
+                "y2": 241.0868725868726
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2337.jpg",
+        "width": 508,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 243.6887159533074,
+                "y1": 76.50389105058365,
+                "x2": 415.6731517509728,
+                "y2": 303.352140077821
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 107.11284046692607,
+                "y1": 73.39105058365757,
+                "x2": 249.91439688715957,
+                "y2": 300.6284046692607
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2341.jpg",
+        "width": 336,
+        "height": 506,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 87.47674418604657,
+                "y1": 143.11627906976744,
+                "x2": 203.17441860465124,
+                "y2": 505.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 46.19767441860472,
+                "y1": 114.04651162790697,
+                "x2": 171.19767441860472,
+                "y2": 503.5813953488372
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2363.jpg",
+        "width": 508,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 163.53307392996106,
+                "y1": 30.978599221789867,
+                "x2": 245.24513618677042,
+                "y2": 305.2976653696498
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 244.07782101167317,
+                "y1": 22.418287937743173,
+                "x2": 330.8482490272374,
+                "y2": 303.74124513618676
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2425.jpg",
+        "width": 481,
+        "height": 321,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 25.610294117647086,
+                "y1": 22.264705882352963,
+                "x2": 268.99264705882354,
+                "y2": 319.69117647058823
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 259.06617647058823,
+                "y1": 20.058823529411786,
+                "x2": 448.40094921595164,
+                "y2": 320.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\249.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 114.67032967032968,
+                "y1": 73.51648351648352,
+                "x2": 222.91208791208794,
+                "y2": 418.57142857142856
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 523.4615384615385,
+                "y1": 65.82417582417582,
+                "x2": 605.8791208791208,
+                "y2": 420.7692307692308
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2578.jpg",
+        "width": 371,
+        "height": 463,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 13.95744680851061,
+                "y1": 55.436170212765965,
+                "x2": 146.40425531914894,
+                "y2": 461.8191489361702
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 114.48936170212767,
+                "y1": 80.43617021276597,
+                "x2": 244.80851063829783,
+                "y2": 462.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 216.08510638297872,
+                "y1": 29.372340425531927,
+                "x2": 345.8723404255319,
+                "y2": 460.75531914893617
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2617.jpg",
+        "width": 334,
+        "height": 501,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 143.72413793103448,
+                "y1": 37.2816091954023,
+                "x2": 268.4367816091954,
+                "y2": 495.3275862068965
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 39.701149425287326,
+                "y1": 7.9712643678160955,
+                "x2": 179.35632183908046,
+                "y2": 493.0287356321839
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2646.jpg",
+        "width": 267,
+        "height": 401,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 1.0115207373271744,
+                "y1": 57.18202764976958,
+                "x2": 266.0,
+                "y2": 389.6991682589637
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2674.jpg",
+        "width": 449,
+        "height": 382,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 204.5438596491228,
+                "y1": 70.8245614035088,
+                "x2": 345.77192982456137,
+                "y2": 333.9824561403509
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 89.63157894736844,
+                "y1": 65.56140350877196,
+                "x2": 229.5438596491228,
+                "y2": 319.50877192982455
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2921.jpg",
+        "width": 507,
+        "height": 337,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 363.3455598455598,
+                "y1": 42.24517374517373,
+                "x2": 506.0,
+                "y2": 335.6814671814672
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 291.53088803088804,
+                "y1": 0.9324324324324185,
+                "x2": 461.41505791505796,
+                "y2": 336.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\2983.jpg",
+        "width": 334,
+        "height": 501,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 130.50574712643675,
+                "y1": 67.16666666666667,
+                "x2": 323.6091954022989,
+                "y2": 499.35057471264366
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 23.609195402298838,
+                "y1": 130.95977011494253,
+                "x2": 287.97701149425285,
+                "y2": 499.35057471264366
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3022.jpg",
+        "width": 481,
+        "height": 327,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 242.55992509363298,
+                "y1": 69.1179775280899,
+                "x2": 431.32397003745314,
+                "y2": 326.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 39.563670411985015,
+                "y1": 59.38014981273409,
+                "x2": 249.67602996254683,
+                "y2": 326.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3027.jpg",
+        "width": 365,
+        "height": 471,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 13.040540540540576,
+                "y1": 91.71621621621621,
+                "x2": 301.68918918918916,
+                "y2": 469.55405405405406
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3089.jpg",
+        "width": 357,
+        "height": 472,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 158.22972972972974,
+                "y1": 63.02702702702704,
+                "x2": 356.0,
+                "y2": 470.05405405405406
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 1.4729729729729684,
+                "y1": 30.054054054054067,
+                "x2": 202.01351351351354,
+                "y2": 470.05405405405406
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3139.jpg",
+        "width": 508,
+        "height": 337,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 334.50193050193053,
+                "y1": 6.337837837837824,
+                "x2": 468.47876447876456,
+                "y2": 334.13706563706563
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 328.7104247104248,
+                "y1": 16.376447876447862,
+                "x2": 434.11583011583014,
+                "y2": 313.2876447876448
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3145.jpg",
+        "width": 508,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 167.81322957198444,
+                "y1": 117.35992217898831,
+                "x2": 331.23735408560316,
+                "y2": 337.9824902723735
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 270.5369649805448,
+                "y1": 45.7645914396887,
+                "x2": 451.8599221789883,
+                "y2": 337.59338521400775
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3162.jpg",
+        "width": 508,
+        "height": 337,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 2.469757176653733,
+                "y1": 106.33783783783784,
+                "x2": 294.73359073359075,
+                "y2": 336.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 266.934362934363,
+                "y1": 100.16023166023166,
+                "x2": 507.0,
+                "y2": 336.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3347.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 184.98837209302332,
+                "y1": 212.22093023255812,
+                "x2": 331.5,
+                "y2": 431.98837209302326
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 62.313953488372135,
+                "y1": 133.73255813953486,
+                "x2": 212.31395348837214,
+                "y2": 430.8255813953489
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3665.jpg",
+        "width": 501,
+        "height": 334,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 303.18199233716473,
+                "y1": 59.337164750957854,
+                "x2": 484.40804597701145,
+                "y2": 333.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 205.0977011494253,
+                "y1": 44.39463601532567,
+                "x2": 335.36590038314176,
+                "y2": 332.9003831417625
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 47.24329501915706,
+                "y1": 7.613026819923374,
+                "x2": 223.10536398467434,
+                "y2": 332.9003831417625
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\387.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 106.978021978022,
+                "y1": 135.60439560439562,
+                "x2": 308.6263736263736,
+                "y2": 426.26373626373623
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 240.49450549450552,
+                "y1": 81.75824175824177,
+                "x2": 415.2197802197802,
+                "y2": 424.0659340659341
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 414.1208791208791,
+                "y1": 193.84615384615384,
+                "x2": 531.7032967032967,
+                "y2": 426.8131868131868
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 530.054945054945,
+                "y1": 191.64835164835165,
+                "x2": 637.7472527472528,
+                "y2": 422.96703296703294
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 425.1098901098901,
+                "y1": 255.3846153846154,
+                "x2": 461.9230769230769,
+                "y2": 320.7692307692308
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 608.6263736263736,
+                "y1": 248.24175824175825,
+                "x2": 669.6153846153846,
+                "y2": 424.0659340659341
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3914.jpg",
+        "width": 337,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 154.83720930232556,
+                "y1": 207.56976744186045,
+                "x2": 305.41860465116275,
+                "y2": 505.8255813953489
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 29.25581395348837,
+                "y1": 213.96511627906975,
+                "x2": 170.53488372093022,
+                "y2": 505.24418604651163
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3970.jpg",
+        "width": 485,
+        "height": 355,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 71.56504065040647,
+                "y1": 88.8821138211382,
+                "x2": 249.2073170731707,
+                "y2": 352.2967479674797
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 139.04471544715446,
+                "y1": 43.76016260162601,
+                "x2": 395.9552845528455,
+                "y2": 353.9227642276423
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\3983.jpg",
+        "width": 507,
+        "height": 337,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 252.92084942084938,
+                "y1": 61.16409266409265,
+                "x2": 402.7277992277992,
+                "y2": 314.05984555984554
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 84.19498069498069,
+                "y1": 34.523166023166006,
+                "x2": 261.8011583011583,
+                "y2": 323.32625482625485
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4075.jpg",
+        "width": 372,
+        "height": 461,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 44.46560846560848,
+                "y1": 41.082010582010604,
+                "x2": 182.56084656084656,
+                "y2": 460.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 166.6878306878307,
+                "y1": 24.15079365079367,
+                "x2": 313.7777777777777,
+                "y2": 458.54232804232805
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4097.jpg",
+        "width": 479,
+        "height": 360,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 237.64049586776864,
+                "y1": 29.58677685950412,
+                "x2": 457.47520661157034,
+                "y2": 358.09917355371897
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 60.367768595041326,
+                "y1": 3.140495867768581,
+                "x2": 249.62396694214877,
+                "y2": 359.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4274.jpg",
+        "width": 334,
+        "height": 501,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 45.448275862068954,
+                "y1": 49.35057471264368,
+                "x2": 138.55172413793105,
+                "y2": 468.89080459770116
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 129.35632183908046,
+                "y1": 37.2816091954023,
+                "x2": 245.4482758620689,
+                "y2": 269.4655172413793
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4371.jpg",
+        "width": 461,
+        "height": 372,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 20.884615384615387,
+                "y1": 50.529914529914514,
+                "x2": 326.4401709401709,
+                "y2": 371.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 223.02136752136752,
+                "y1": 47.11111111111109,
+                "x2": 460.0,
+                "y2": 371.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4378.jpg",
+        "width": 508,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 224.6225680933852,
+                "y1": 162.1070038910506,
+                "x2": 273.64980544747084,
+                "y2": 293.23540856031127
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 170.147859922179,
+                "y1": 151.21206225680933,
+                "x2": 225.78988326848253,
+                "y2": 299.85019455252916
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4441.jpg",
+        "width": 518,
+        "height": 344,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 0.9291338582677326,
+                "y1": 44.44094488188976,
+                "x2": 237.1496062992126,
+                "y2": 342.4724409448819
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 231.63779527559055,
+                "y1": 27.90551181102362,
+                "x2": 517.0,
+                "y2": 343.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4493.jpg",
+        "width": 507,
+        "height": 338,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 177.33720930232556,
+                "y1": 23.65116279069769,
+                "x2": 271.91085271317826,
+                "y2": 279.077519379845
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 73.84883720930232,
+                "y1": 71.71317829457365,
+                "x2": 357.1821705426356,
+                "y2": 337.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4533.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 25.10465116279073,
+                "y1": 97.6860465116279,
+                "x2": 176.26744186046517,
+                "y2": 505.8255813953489
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 118.12790697674421,
+                "y1": 7.569767441860455,
+                "x2": 322.1976744186047,
+                "y2": 504.66279069767444
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4551.jpg",
+        "width": 958,
+        "height": 1301,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 173.77611940298505,
+                "y1": 244.5298507462687,
+                "x2": 461.83582089552226,
+                "y2": 1102.7388059701493
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 378.25373134328345,
+                "y1": 329.60447761194035,
+                "x2": 573.776119402985,
+                "y2": 1063.9328358208957
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4570.jpg",
+        "width": 318,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 7.105427357601002e-15,
+                "y1": 19.120879120879128,
+                "x2": 292.79120879120876,
+                "y2": 479.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 85.64835164835165,
+                "y1": 54.28571428571429,
+                "x2": 317.0,
+                "y2": 433.4065934065934
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4599.jpg",
+        "width": 413,
+        "height": 412,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 216.16981132075472,
+                "y1": 115.9056603773585,
+                "x2": 348.2452830188679,
+                "y2": 309.77358490566036
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 210.9811320754717,
+                "y1": 119.20754716981132,
+                "x2": 317.58490566037733,
+                "y2": 362.60377358490564
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4687.jpg",
+        "width": 470,
+        "height": 365,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 49.016736401673626,
+                "y1": 47.77196652719665,
+                "x2": 256.9665271966527,
+                "y2": 363.2531380753138
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 223.91213389121336,
+                "y1": 41.91422594142259,
+                "x2": 440.2301255230125,
+                "y2": 364.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4696.jpg",
+        "width": 360,
+        "height": 477,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 109.23497267759564,
+                "y1": 183.30874316939892,
+                "x2": 273.16939890710387,
+                "y2": 475.6584699453552
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 107.04918032786884,
+                "y1": 179.48360655737707,
+                "x2": 199.39890710382514,
+                "y2": 304.07377049180326
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4721.jpg",
+        "width": 494,
+        "height": 349,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 198.99999999999997,
+                "y1": 97.3,
+                "x2": 352.20000000000005,
+                "y2": 304.09999999999997
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 180.6,
+                "y1": 115.3,
+                "x2": 265.40000000000003,
+                "y2": 300.9
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4729.jpg",
+        "width": 334,
+        "height": 501,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 106.08045977011494,
+                "y1": 177.51149425287358,
+                "x2": 186.54022988505744,
+                "y2": 487.85632183908046
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 171.5977011494253,
+                "y1": 162.5689655172414,
+                "x2": 254.9310344827586,
+                "y2": 492.45402298850576
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4830.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 191.67441860465118,
+                "y1": 187.80232558139534,
+                "x2": 280.62790697674416,
+                "y2": 398.2674418604651
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 102.72093023255815,
+                "y1": 147.6860465116279,
+                "x2": 258.5348837209302,
+                "y2": 408.7325581395349
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4847.jpg",
+        "width": 509,
+        "height": 328,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 325.1766917293233,
+                "y1": 76.03007518796993,
+                "x2": 432.6954887218045,
+                "y2": 327.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 215.02631578947367,
+                "y1": 56.48120300751879,
+                "x2": 341.71804511278197,
+                "y2": 310.61654135338347
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4878.jpg",
+        "width": 501,
+        "height": 334,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 210.65325670498083,
+                "y1": 133.66666666666669,
+                "x2": 281.1513409961686,
+                "y2": 277.72796934865903
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 264.676245210728,
+                "y1": 34.43295019157088,
+                "x2": 339.3888888888889,
+                "y2": 288.8390804597702
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 137.85632183908046,
+                "y1": 34.81609195402299,
+                "x2": 216.78352490421457,
+                "y2": 285.3908045977012
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 325.21264367816093,
+                "y1": 16.425287356321842,
+                "x2": 414.86781609195407,
+                "y2": 285.0076628352491
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 49.733716475095775,
+                "y1": 14.892720306513413,
+                "x2": 143.22030651340998,
+                "y2": 299.95019157088126
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4912.jpg",
+        "width": 513,
+        "height": 385,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 116.85242290748897,
+                "y1": 51.09030837004406,
+                "x2": 345.04625550660796,
+                "y2": 384.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 156.5,
+                "y1": 36.99339207048459,
+                "x2": 267.0726872246696,
+                "y2": 169.15198237885465
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\4927.jpg",
+        "width": 335,
+        "height": 501,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 45.660919540229884,
+                "y1": 184.4080459770115,
+                "x2": 162.9022988505747,
+                "y2": 489.00574712643675
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 165.77586206896552,
+                "y1": 176.36206896551727,
+                "x2": 300.2586206896551,
+                "y2": 453.3735632183908
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5046.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 146.32558139534882,
+                "y1": 108.15116279069767,
+                "x2": 291.09302325581393,
+                "y2": 319.19767441860466
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 55.046511627906966,
+                "y1": 23.26744186046511,
+                "x2": 329.4651162790698,
+                "y2": 388.3837209302326
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5077.jpg",
+        "width": 339,
+        "height": 508,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 174.15116279069764,
+                "y1": 110.97674418604652,
+                "x2": 331.70930232558135,
+                "y2": 448.1860465116279
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 48.56976744186045,
+                "y1": 44.11627906976744,
+                "x2": 205.54651162790697,
+                "y2": 449.93023255813955
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5111.jpg",
+        "width": 361,
+        "height": 474,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 148.9782608695652,
+                "y1": 160.9130434782609,
+                "x2": 257.1304347826087,
+                "y2": 472.3260869565217
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 83.76086956521738,
+                "y1": 165.2608695652174,
+                "x2": 170.17391304347825,
+                "y2": 473.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5156.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 45.74418604651163,
+                "y1": 120.94186046511626,
+                "x2": 327.1395348837209,
+                "y2": 359.31395348837214
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 41.67441860465118,
+                "y1": 91.2906976744186,
+                "x2": 300.3953488372093,
+                "y2": 504.66279069767444
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5254.jpg",
+        "width": 479,
+        "height": 359,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 156.78395061728395,
+                "y1": 35.87860082304526,
+                "x2": 293.82098765432096,
+                "y2": 358.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 59.25308641975309,
+                "y1": 36.70164609053498,
+                "x2": 172.0102880658436,
+                "y2": 263.4506172839506
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5319.jpg",
+        "width": 372,
+        "height": 461,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 155.84126984126982,
+                "y1": 59.07142857142859,
+                "x2": 260.6031746031746,
+                "y2": 413.03968253968253
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 72.77248677248679,
+                "y1": 74.41534391534393,
+                "x2": 164.83597883597884,
+                "y2": 416.2142857142857
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5338.jpg",
+        "width": 501,
+        "height": 334,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 241.68773946360153,
+                "y1": 5.314176245210731,
+                "x2": 470.8065134099617,
+                "y2": 333.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 56.6302681992337,
+                "y1": 33.666666666666664,
+                "x2": 243.9865900383142,
+                "y2": 333.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5396.jpg",
+        "width": 338,
+        "height": 508,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 34.0,
+                "y1": 0.0,
+                "x2": 336.0,
+                "y2": 507.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5460.jpg",
+        "width": 485,
+        "height": 354,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 236.40243902439022,
+                "y1": 66.02439024390245,
+                "x2": 265.2642276422764,
+                "y2": 94.88617886178862
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 201.03658536585363,
+                "y1": 96.91869918699187,
+                "x2": 277.8658536585366,
+                "y2": 307.4878048780488
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 203.0691056910569,
+                "y1": 68.46341463414635,
+                "x2": 237.6219512195122,
+                "y2": 99.35772357723577
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 110.38617886178861,
+                "y1": 141.22764227642278,
+                "x2": 236.40243902439022,
+                "y2": 304.2357723577236
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5611.jpg",
+        "width": 507,
+        "height": 338,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 128.30620155038758,
+                "y1": 39.15503875968994,
+                "x2": 403.6785816824576,
+                "y2": 337.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 168.61627906976742,
+                "y1": 46.51937984496126,
+                "x2": 238.38372093023253,
+                "y2": 194.96899224806202
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 50.189231713869056,
+                "y1": 150.7829457364341,
+                "x2": 317.0658914728682,
+                "y2": 337.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\5640.jpg",
+        "width": 769,
+        "height": 577,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 46.08940397350996,
+                "y1": 73.2682119205298,
+                "x2": 307.6788079470199,
+                "y2": 574.5927152317881
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 326.8841059602649,
+                "y1": 5.71854304635761,
+                "x2": 768.0,
+                "y2": 575.2549668874173
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\571.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 85.00000000000001,
+                "y1": 96.04395604395604,
+                "x2": 258.6263736263736,
+                "y2": 420.7692307692308
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 446.53846153846155,
+                "y1": 116.37362637362638,
+                "x2": 561.9230769230769,
+                "y2": 318.57142857142856
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6023.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 152.72093023255815,
+                "y1": 184.8953488372093,
+                "x2": 315.51162790697674,
+                "y2": 380.24418604651163
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": -3.552713678800501e-15,
+                "y1": 154.6627906976744,
+                "x2": 192.25581395348837,
+                "y2": 480.8255813953489
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6199.jpg",
+        "width": 441,
+        "height": 416,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 180.97619047619045,
+                "y1": 25.142857142857146,
+                "x2": 294.30952380952374,
+                "y2": 413.7142857142857
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 68.11904761904762,
+                "y1": 65.61904761904762,
+                "x2": 229.547619047619,
+                "y2": 415.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\..\\images\\62.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 228.95604395604397,
+                "y1": 99.34065934065934,
+                "x2": 342.14285714285717,
+                "y2": 421.3186813186813
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 361.9230769230769,
+                "y1": 107.58241758241759,
+                "x2": 448.7362637362637,
+                "y2": 420.2197802197802
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6261.jpg",
+        "width": 507,
+        "height": 338,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 127.91860465116278,
+                "y1": 16.674418604651176,
+                "x2": 242.25968992248062,
+                "y2": 337.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 219.77906976744185,
+                "y1": 55.4341085271318,
+                "x2": 354.2751937984496,
+                "y2": 337.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 36.05813953488371,
+                "y1": 62.41085271317831,
+                "x2": 173.65503875968992,
+                "y2": 336.8294573643411
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6293.jpg",
+        "width": 508,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 21.315175097276253,
+                "y1": 23.19649805447469,
+                "x2": 243.48688912727482,
+                "y2": 338.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 238.43579766536968,
+                "y1": 26.30933852140076,
+                "x2": 364.89494163424126,
+                "y2": 337.204280155642
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\632.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 34.450549450549474,
+                "y1": 60.87912087912088,
+                "x2": 216.86813186813185,
+                "y2": 421.3186813186813
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 368.5164835164835,
+                "y1": 85.05494505494507,
+                "x2": 463.02197802197804,
+                "y2": 339.45054945054943
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6335.jpg",
+        "width": 507,
+        "height": 338,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 202.33720930232556,
+                "y1": 73.26356589147288,
+                "x2": 337.99612403100775,
+                "y2": 337.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 9.313953488372086,
+                "y1": 0.7829457364341236,
+                "x2": 234.89534883720927,
+                "y2": 337.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6417.jpg",
+        "width": 501,
+        "height": 334,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 184.21647509578543,
+                "y1": 45.544061302681996,
+                "x2": 303.7567049808429,
+                "y2": 332.9003831417625
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 116.78352490421456,
+                "y1": 68.14942528735632,
+                "x2": 207.20498084291188,
+                "y2": 333.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6429.jpg",
+        "width": 339,
+        "height": 508,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 147.40697674418607,
+                "y1": 83.06976744186046,
+                "x2": 254.38372093023258,
+                "y2": 446.4418604651163
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 56.709302325581405,
+                "y1": 119.11627906976744,
+                "x2": 184.61627906976742,
+                "y2": 502.8372093023256
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6526.jpg",
+        "width": 360,
+        "height": 479,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 110.21978021978023,
+                "y1": 180.70879120879124,
+                "x2": 252.5274725274725,
+                "y2": 305.4340659340659
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 61.318681318681314,
+                "y1": 86.75274725274727,
+                "x2": 289.8901098901099,
+                "y2": 366.4230769230769
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\656.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 178.95604395604397,
+                "y1": 43.846153846153854,
+                "x2": 340.4945054945055,
+                "y2": 474.0659340659341
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 321.8131868131868,
+                "y1": 48.24175824175825,
+                "x2": 464.6703296703297,
+                "y2": 477.9120879120879
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6608.jpg",
+        "width": 340,
+        "height": 504,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 53.81502890173414,
+                "y1": 105.75722543352599,
+                "x2": 139.94219653179192,
+                "y2": 443.32947976878614
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 131.27167630057806,
+                "y1": 106.91329479768784,
+                "x2": 274.62427745664746,
+                "y2": 448.53179190751445
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6611.jpg",
+        "width": 506,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 190.35408560311282,
+                "y1": 88.17704280155641,
+                "x2": 333.9338521400778,
+                "y2": 338.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 228.87548638132296,
+                "y1": 49.65564202334629,
+                "x2": 482.1828793774319,
+                "y2": 338.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\6632.jpg",
+        "width": 641,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 297.9725274725275,
+                "y1": 66.92307692307693,
+                "x2": 544.6758241758241,
+                "y2": 477.9120879120879
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 97.97252747252749,
+                "y1": 3.186813186813193,
+                "x2": 378.19230769230774,
+                "y2": 479.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\..\\images\\7.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 331.66666666666663,
+                "y1": 48.666666666666664,
+                "x2": 523.0,
+                "y2": 400.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 192.99999999999997,
+                "y1": 34.666666666666664,
+                "x2": 363.66666666666663,
+                "y2": 401.33333333333337
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\7035.jpg",
+        "width": 333,
+        "height": 500,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 129.71839080459768,
+                "y1": 110.91954022988506,
+                "x2": 263.6264367816092,
+                "y2": 497.7011494252873
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 130.29310344827587,
+                "y1": 166.66666666666669,
+                "x2": 207.87931034482756,
+                "y2": 310.34482758620686
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 107.87931034482756,
+                "y1": 331.60919540229884,
+                "x2": 207.30459770114942,
+                "y2": 498.2758620689655
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\7124.jpg",
+        "width": 339,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 9.616279069767415,
+                "y1": 57.569767441860456,
+                "x2": 221.24418604651163,
+                "y2": 504.66279069767444
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 98.56976744186045,
+                "y1": 93.61627906976743,
+                "x2": 325.31395348837214,
+                "y2": 504.66279069767444
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\7156.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 146.32558139534882,
+                "y1": 88.38372093023254,
+                "x2": 309.1162790697674,
+                "y2": 460.4767441860465
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 37.604651162790674,
+                "y1": 70.94186046511626,
+                "x2": 173.65116279069764,
+                "y2": 470.9418604651163
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\719.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 93.7912087912088,
+                "y1": 50.98901098901099,
+                "x2": 280.6043956043956,
+                "y2": 475.16483516483515
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 578.9560439560439,
+                "y1": 60.329670329670336,
+                "x2": 708.6263736263736,
+                "y2": 477.9120879120879
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 349.83516483516485,
+                "y1": 28.461538461538467,
+                "x2": 505.8791208791208,
+                "y2": 475.16483516483515
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 316.86813186813185,
+                "y1": 104.83516483516483,
+                "x2": 343.7912087912088,
+                "y2": 184.5054945054945
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 42.69230769230772,
+                "y1": 107.03296703296704,
+                "x2": 61.92307692307695,
+                "y2": 156.4835164835165
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 28.956043956043985,
+                "y1": 108.13186813186813,
+                "x2": 42.14285714285718,
+                "y2": 174.06593406593407
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\726.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 448.1868131868132,
+                "y1": 28.461538461538467,
+                "x2": 552.5824175824175,
+                "y2": 476.26373626373623
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 361.9230769230769,
+                "y1": 41.64835164835166,
+                "x2": 517.4175824175824,
+                "y2": 479.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\7485.jpg",
+        "width": 339,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 204.96511627906978,
+                "y1": 156.40697674418604,
+                "x2": 315.43023255813955,
+                "y2": 505.8255813953489
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 97.98837209302326,
+                "y1": 157.56976744186045,
+                "x2": 207.2906976744186,
+                "y2": 506.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\7508.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 138.7674418604651,
+                "y1": 94.77906976744185,
+                "x2": 326.5581395348837,
+                "y2": 475.01162790697674
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 2.720930232558146,
+                "y1": 94.19767441860463,
+                "x2": 240.51162790697674,
+                "y2": 489.546511627907
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\7536.jpg",
+        "width": 508,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 205.75097276264592,
+                "y1": 31.367704280155625,
+                "x2": 305.7509727626459,
+                "y2": 337.9824902723735
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 68.00778210116731,
+                "y1": 7.632295719844341,
+                "x2": 243.49416342412454,
+                "y2": 338.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\7641.jpg",
+        "width": 501,
+        "height": 334,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 117.93295019157087,
+                "y1": 23.321839080459775,
+                "x2": 219.84865900383141,
+                "y2": 331.7509578544062
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 22.147509578544046,
+                "y1": 22.172413793103452,
+                "x2": 112.95210727969346,
+                "y2": 303.0153256704981
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\775.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 318.5164835164835,
+                "y1": 26.81318681318682,
+                "x2": 447.6373626373627,
+                "y2": 475.7142857142857
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 87.74725274725277,
+                "y1": 162.52747252747253,
+                "x2": 125.10989010989015,
+                "y2": 249.34065934065933
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 135.54945054945057,
+                "y1": 132.85714285714286,
+                "x2": 246.53846153846155,
+                "y2": 438.9010989010989
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 210.82417582417582,
+                "y1": 126.81318681318682,
+                "x2": 272.3626373626374,
+                "y2": 391.0989010989011
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\7752.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 34.69767441860466,
+                "y1": 58.73255813953487,
+                "x2": 168.4186046511628,
+                "y2": 495.9418604651163
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 137.60465116279067,
+                "y1": 30.24418604651162,
+                "x2": 314.93023255813955,
+                "y2": 478.5
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\792.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 388.84615384615387,
+                "y1": 93.84615384615385,
+                "x2": 509.1758241758241,
+                "y2": 476.26373626373623
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 217.967032967033,
+                "y1": 79.01098901098902,
+                "x2": 363.02197802197804,
+                "y2": 475.16483516483515
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\8006.jpg",
+        "width": 338,
+        "height": 507,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 149.2325581395349,
+                "y1": 134.31395348837208,
+                "x2": 313.76744186046506,
+                "y2": 470.9418604651163
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 50.97674418604652,
+                "y1": 153.5,
+                "x2": 157.95348837209303,
+                "y2": 475.593023255814
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\8112.jpg",
+        "width": 508,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 208.08560311284046,
+                "y1": 101.4066147859922,
+                "x2": 313.14396887159535,
+                "y2": 337.59338521400775
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\8132.jpg",
+        "width": 212,
+        "height": 265,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 14.20668693009118,
+                "y1": 40.402735562310035,
+                "x2": 118.46200607902738,
+                "y2": 264.0
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 98.40121580547113,
+                "y1": 46.17781155015198,
+                "x2": 182.89969604863222,
+                "y2": 264.0
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\8139.jpg",
+        "width": 508,
+        "height": 339,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 196.02334630350194,
+                "y1": 14.247081712062238,
+                "x2": 455.5564202334631,
+                "y2": 322.80739299610894
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 77.34630350194551,
+                "y1": 140.3171206225681,
+                "x2": 248.16342412451363,
+                "y2": 317.3599221789883
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\8672.jpg",
+        "width": 400,
+        "height": 500,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 122.98850574712645,
+                "y1": 83.9080459770115,
+                "x2": 241.95402298850576,
+                "y2": 281.60919540229884
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 213.21839080459768,
+                "y1": 54.02298850574713,
+                "x2": 295.40229885057477,
+                "y2": 260.34482758620686
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 223.5632183908046,
+                "y1": 98.27586206896552,
+                "x2": 375.28735632183907,
+                "y2": 378.735632183908
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 17.241379310344826,
+                "y1": 105.17241379310344,
+                "x2": 112.0689655172414,
+                "y2": 328.735632183908
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\8678.jpg",
+        "width": 470,
+        "height": 600,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 54.31034482758622,
+                "y1": 14.482758620689655,
+                "x2": 253.62068965517238,
+                "y2": 596.551724137931
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 186.0344827586207,
+                "y1": 0.0,
+                "x2": 425.3448275862069,
+                "y2": 597.9310344827587
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\8813.jpg",
+        "width": 300,
+        "height": 470,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 28.378378378378386,
+                "y1": 2.5675675675675675,
+                "x2": 161.35135135135135,
+                "y2": 410.6756756756757
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 154.32432432432432,
+                "y1": 11.216216216216216,
+                "x2": 275.4054054054054,
+                "y2": 431.7567567567568
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\8937.jpg",
+        "width": 233,
+        "height": 361,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 26.41735537190084,
+                "y1": 4.053719008264464,
+                "x2": 151.62396694214877,
+                "y2": 351.9876033057851
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 104.9297520661157,
+                "y1": 3.640495867768596,
+                "x2": 229.30991735537194,
+                "y2": 358.1859504132231
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\934.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 494.3406593406594,
+                "y1": 114.72527472527473,
+                "x2": 700.3846153846154,
+                "y2": 420.7692307692308
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 269.0659340659341,
+                "y1": 159.7802197802198,
+                "x2": 354.2307692307692,
+                "y2": 398.79120879120876
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\954.jpg",
+        "width": 720,
+        "height": 480,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 392.14285714285717,
+                "y1": 135.05494505494505,
+                "x2": 413.57142857142856,
+                "y2": 216.92307692307693
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 255.87912087912088,
+                "y1": 54.83516483516484,
+                "x2": 414.1208791208791,
+                "y2": 389.45054945054943
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 250.93406593406593,
+                "y1": 219.12087912087912,
+                "x2": 656.4285714285714,
+                "y2": 420.2197802197802
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\957.jpg",
+        "width": 640,
+        "height": 425,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 530.4878048780489,
+                "y1": 217.3780487804878,
+                "x2": 575.8536585365855,
+                "y2": 354.9390243902439
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 228.04878048780492,
+                "y1": 242.2560975609756,
+                "x2": 288.04878048780495,
+                "y2": 343.719512195122
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 483.17073170731715,
+                "y1": 224.20731707317074,
+                "x2": 528.5365853658537,
+                "y2": 357.3780487804878
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 328.04878048780495,
+                "y1": 243.2317073170732,
+                "x2": 383.17073170731715,
+                "y2": 346.6463414634147
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 279.7560975609756,
+                "y1": 237.8658536585366,
+                "x2": 330.4878048780488,
+                "y2": 350.0609756097561
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 149.51219512195124,
+                "y1": 221.76829268292684,
+                "x2": 192.43902439024393,
+                "y2": 350.5487804878049
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 88.04878048780489,
+                "y1": 208.59756097560975,
+                "x2": 148.53658536585368,
+                "y2": 356.4024390243903
+            }
+        ],
+        "keypoints": []
+    },
+    {
+        "filepath": "D:/LV-MHP-v2/LV-MHP-V2-Subset/train/images\\975.jpg",
+        "width": 1280,
+        "height": 854,
+        "bboxes": [
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 22.843137254901904,
+                "y1": 292.6862745098039,
+                "x2": 123.82352941176464,
+                "y2": 564.2549019607843
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 113.03921568627447,
+                "y1": 279.94117647058823,
+                "x2": 290.4901960784313,
+                "y2": 777.0
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 310.0980392156862,
+                "y1": 264.2549019607843,
+                "x2": 461.078431372549,
+                "y2": 845.6274509803922
+            },
+            {
+                "class": "person",
+                "gender": "female",
+                "ann_path": null,
+                "x1": 448.3333333333333,
+                "y1": 271.11764705882354,
+                "x2": 700.2941176470588,
+                "y2": 852.4901960784314
+            },
+            {
+                "class": "person",
+                "gender": "male",
+                "ann_path": null,
+                "x1": 895.3921568627452,
+                "y1": 192.68627450980395,
+                "x2": 1000.2941176470588,
+                "y2": 379.94117647058823
+            }
+        ],
+        "keypoints": []
+    }
+]
